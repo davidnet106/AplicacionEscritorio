@@ -1,0 +1,11 @@
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\bin\Debug\Tabla de Notas.exe.config
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\bin\Debug\Tabla de Notas.exe
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\bin\Debug\Tabla de Notas.pdb
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla de Notas.csprojAssemblyReference.cache
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla_de_Notas.Form1.resources
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla_de_Notas.Properties.Resources.resources
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla de Notas.csproj.GenerateResource.cache
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla de Notas.csproj.CoreCompileInputs.cache
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla de Notas.exe
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla de Notas.pdb
+C:\Users\eleanor garage\source\repos\Tabla de Notas\Tabla de Notas\obj\Debug\Tabla_de_Notas.PpalMdi.resources
